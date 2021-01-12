@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "max-sass"
+  "defaultProject": "max-sass",
+  "cli": {
+    "analytics": "335df60f-0f11-4bb2-b262-c97ee7ce275c"
+  }
 }
